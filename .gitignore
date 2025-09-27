@@ -1,3 +1,7 @@
 ctuav_gazebo-research/build/
 ctuav_gazebo-research/log/
 ctuav_gazebo-research/install/
+
+build/
+log/
+install/
